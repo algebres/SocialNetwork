@@ -1,0 +1,2297 @@
+2011-04-10 10:26:11 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/app_controller.php, line 86]
+2011-04-10 10:26:11 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/var/www/socialnetwork.com/app/controllers/images_controller.php, line 22]
+2011-04-10 10:26:17 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/app_controller.php, line 86]
+2011-04-10 10:26:17 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/var/www/socialnetwork.com/app/controllers/images_controller.php, line 22]
+2011-04-10 10:27:16 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/app_controller.php, line 86]
+2011-04-10 10:27:16 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/var/www/socialnetwork.com/app/controllers/images_controller.php, line 22]
+2011-04-10 10:27:59 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/app_controller.php, line 86]
+2011-04-10 10:27:59 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/var/www/socialnetwork.com/app/controllers/images_controller.php, line 22]
+2011-04-10 11:01:04 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/26_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:02:41 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/27_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:03:46 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/28_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:04:11 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/29_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:05:01 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/30_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:06:15 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/31_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125308.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpMJx7PP' to 'img/albums/5/IMG_20110313_125308.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125433.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpaazUEt' to 'img/albums/5/IMG_20110313_125433.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125455.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phps1Xbv7' to 'img/albums/5/IMG_20110313_125455.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:07:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/cake/libs/controller/controller.php, line 742]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125308.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/php2beHOQ' to 'img/albums/5/IMG_20110313_125308.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125433.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpTq9YUR' to 'img/albums/5/IMG_20110313_125433.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125455.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpe4Mc3S' to 'img/albums/5/IMG_20110313_125455.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/cake/libs/controller/controller.php, line 742]
+2011-04-10 11:08:55 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125308.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:55 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpwQ6bS7' to 'img/albums/5/IMG_20110313_125308.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:55 Warning: Warning (2): move_uploaded_file(img/albums/5/IMG_20110313_125433.jpg) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:55 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpHzwpMD' to 'img/albums/5/IMG_20110313_125433.jpg' in [/var/www/socialnetwork.com/app/app_controller.php, line 110]
+2011-04-10 11:08:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/cake/libs/controller/controller.php, line 742]
+2011-04-10 11:09:30 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/albums/5/32_l.pngIMG_20110313_125308.jpg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-10 12:42:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'user_id' cannot be null</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-10 12:44:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'user_id' cannot be null</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-10 12:47:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'user_id' cannot be null</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-10 12:52:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'user_id' cannot be null</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-10 12:56:24 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'user_id' cannot be null</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-10 12:57:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:33 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:34 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:34 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:34 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:34 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:34 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:37 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:37 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:37 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:39 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:39 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:58:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/cake/libs/controller/controller.php, line 742]
+2011-04-10 12:59:04 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:59:07 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 12:59:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:01:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:02:33 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:02:36 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:03:00 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:06:38 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:06:59 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:08:00 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:09:02 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 09:37:42
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 09:37:42
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:10:20 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:11:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:13:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Groups/build_acl in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:13:59 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:15:27 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/upload_profile in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:16:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Groups/build_acl in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:16:49 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Groups/build_acl in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:16:55 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/upload_profile in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:19:13 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:19:18 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:19:20 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:22:25 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:22:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:22:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:22:42 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/album in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:23:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Users/initdb in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:23:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Groups/build_acl in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:24:02 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:25:29 Warning: Warning (2): strtolower() expects parameter 1 to be string, array given in [/var/www/socialnetwork.com/cake/libs/controller/components/auth.php, line 342]
+2011-04-10 13:25:29 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:25:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/cake/libs/controller/controller.php, line 742]
+2011-04-10 13:25:47 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:04:00
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:04:00
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:27:07 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:15:31
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:15:31
+        )
+
+)
+
+Aco: controllers/Users/initdb in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:27:12 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:15:31
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:15:31
+        )
+
+)
+
+Aco: controllers/Groups/build_acl in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-10 13:27:20 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:15:31
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:15:31
+        )
+
+)
+
+Aco: controllers/Images/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-16 01:28:15 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 25
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-10 13:26:50
+            [status] => 11
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-10 13:26:50
+        )
+
+)
+
+Aco: controllers/Images/view in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-16 01:41:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-16 01:44:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-16 01:44:48 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'pImage.id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-17 10:16:58 Warning: Warning (2): imagecreatetruecolor() [http://php.net/function.imagecreatetruecolor]: Invalid image dimensions in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 149]
+2011-04-17 10:16:58 Warning: Warning (2): imagecopyresampled() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 159]
+2011-04-17 10:16:58 Warning: Warning (2): imagejpeg() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 171]
+2011-04-17 10:16:58 Warning: Warning (2): imagedestroy() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 178]
+2011-04-17 10:16:59 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-17 10:17:43 Warning: Warning (2): imagecreatetruecolor() [http://php.net/function.imagecreatetruecolor]: Invalid image dimensions in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 149]
+2011-04-17 10:17:43 Warning: Warning (2): imagecopyresampled() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 159]
+2011-04-17 10:17:43 Warning: Warning (2): imagejpeg() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 171]
+2011-04-17 10:17:43 Warning: Warning (2): imagedestroy() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 178]
+2011-04-17 10:17:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-17 10:18:00 Warning: Warning (2): imagecreatetruecolor() [http://php.net/function.imagecreatetruecolor]: Invalid image dimensions in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 149]
+2011-04-17 10:18:00 Warning: Warning (2): imagecopyresampled() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 159]
+2011-04-17 10:18:00 Warning: Warning (2): imagejpeg() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 171]
+2011-04-17 10:18:00 Warning: Warning (2): imagedestroy() expects parameter 1 to be resource, boolean given in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 178]
+2011-04-17 10:18:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-22 01:34:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'increaseView' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-22 01:35:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'increaseView' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-23 11:12:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:13:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:14:06 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:14:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:14:26 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:15:15 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:15:25 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 42
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-21 23:17:53
+            [status] => 11
+            [hits] => 29
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-04-21 23:17:53
+        )
+
+)
+
+Aco: controllers/Posts/add in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-04-23 11:19:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'created = NOW(), modified = NOW()' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-25 21:37:22 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN users AS `User` ON (`User`.`id` = `Post`.`user_id`)  WHERE `Post`.`user_id`' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-25 21:37:22 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/views/users/profile.ctp, line 66]
+2011-04-25 21:47:17 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getImageUrl' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-25 21:47:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-25 21:49:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getImageUrl' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-25 21:49:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-25 21:50:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-26 22:24:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's everyone?', user_id = 1, type = 101, parentId = 0, created = NOW(), modified =' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-26 22:26:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's everyone?', user_id = 1, type = 101, parent_id = 0, created = NOW(), modified ' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-26 22:51:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Comment.type' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-04-26 22:51:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/basics.php:356) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-29 15:48:17 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-29 15:48:18 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-29 15:50:37 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-29 15:50:38 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-29 15:54:30 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-29 15:54:31 Warning: Warning (2): Missing argument 1 for AlbumsController::index() in [C:\xampp\htdocs\socialnetwork.com\app\controllers\albums_controller.php, line 7]
+2011-04-30 17:53:36 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot//img/users/15//var/www/socialnetwork.com/app/webroot/img/user_female.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 70]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 86]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 102]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 103]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 112]
+2011-04-30 17:53:36 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 114]
+2011-04-30 17:53:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-30 17:58:24 Warning: Warning (2): getimagesize(/var/www/socialnetwork.com/app/webroot/img/user_male.pngimg/user_male.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 26]
+2011-04-30 17:58:24 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 70]
+2011-04-30 17:58:24 Warning: Warning (2): Division by zero in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 86]
+2011-04-30 17:58:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-04-30 18:00:13 Warning: Warning (2): imagepng() [http://php.net/function.imagepng]: Unable to open '/var/www/socialnetwork.com/app/webroot//var/www/socialnetwork.com/app/webroot//img/users/17/17_l.png' for writing: No such file or directory in [/var/www/socialnetwork.com/app/controllers/components/p_image.php, line 167]
+2011-04-30 23:22:07 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 20
+            [email] => user18@test.com
+            [username] => user18
+            [name] => user18
+            [sex] => 0
+            [dob] => 1988-07-06
+            [avatar_id] => 0
+            [country] => SG
+            [relationship_status_id] => 0
+            [group_id] => 3
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-04-30 20:32:35
+            [status] => 11
+            [hits] => 7
+            [created] => 2011-04-30 18:20:21
+            [modified] => 2011-04-30 22:32:02
+        )
+
+)
+
+Aco: controllers/Users/hi in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-01 15:16:54 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-01 12:00:55
+            [status] => 11
+            [hits] => 209
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-01 12:00:55
+        )
+
+)
+
+Aco: controllers/Messages/send in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-01 15:17:01 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-01 12:00:55
+            [status] => 11
+            [hits] => 209
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-01 12:00:55
+        )
+
+)
+
+Aco: controllers/Messages/send in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-01 15:17:16 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-01 12:00:55
+            [status] => 11
+            [hits] => 209
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-01 12:00:55
+        )
+
+)
+
+Aco: controllers/Messages/send in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-03 15:34:13 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.user1_id' in 'where clause'</span> in [C:\xampp\htdocs\socialnetwork.com\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-05-03 15:35:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.user1_id' in 'where clause'</span> in [C:\xampp\htdocs\socialnetwork.com\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-05-05 22:39:45 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-03 22:19:03
+            [status] => 11
+            [hits] => 232
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-03 22:19:03
+        )
+
+)
+
+Aco: controllers/Users/search in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-05 22:55:02 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findAll' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-05 23:19:42 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-03 22:19:03
+            [status] => 11
+            [hits] => 232
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-03 22:19:03
+        )
+
+)
+
+Aco: controllers/Albums/search in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-05 23:19:53 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-03 22:19:03
+            [status] => 11
+            [hits] => 232
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-03 22:19:03
+        )
+
+)
+
+Aco: controllers/Albums/search in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-05 23:20:21 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [email] => acidru5h@gmail.com
+            [username] => admin
+            [name] => System Admin
+            [sex] => 0
+            [dob] => 1991-03-19
+            [avatar_id] => 49
+            [country] => SG
+            [relationship_status_id] => 3
+            [group_id] => 1
+            [last_login_ip] => 127.0.0.1
+            [last_login_time] => 2011-05-03 22:19:03
+            [status] => 11
+            [hits] => 232
+            [created] => 2011-03-19 15:45:56
+            [modified] => 2011-05-03 22:19:03
+        )
+
+)
+
+Aco: controllers/Albums/search in [/var/www/socialnetwork.com/cake/libs/controller/components/acl.php, line 273]
+2011-05-05 23:21:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Album1.name' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-05 23:21:59 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/views/albums/search.ctp, line 21]
+2011-05-05 23:25:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Album1.name' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-05 23:25:23 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/views/albums/search.ctp, line 21]
+2011-05-08 12:52:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-08 12:52:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-08 12:57:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_postToWall' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 21:54:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:08:13 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.maste1r_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:08:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-09 22:08:16 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.maste1r_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:08:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-09 22:08:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.maste1r_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:08:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-09 22:08:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.maste1r_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:08:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-09 22:10:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.maste1r_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-09 22:10:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-13 23:14:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/basics.php:119) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-13 23:15:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'All FROM users User' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-13 23:15:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'all FROM users User' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 14:24:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-14 14:56:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Post.user_id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 14:56:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Post.user_1id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 14:56:45 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/views/users/updates.ctp, line 100]
+2011-05-14 14:56:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-14 14:58:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 14:58:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Post.user_1id' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 14:58:11 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/socialnetwork.com/app/views/users/updates.ctp, line 100]
+2011-05-14 14:58:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/socialnetwork.com/cake/libs/debugger.php:673) in [/var/www/socialnetwork.com/app/views/layouts/default.ctp, line 1]
+2011-05-14 14:58:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-14 15:00:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER1 BY `Post`.`created` DESC' at line 1</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-21 13:13:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Friend.user1_id1' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-21 13:14:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Friend.user1_id1' in 'where clause'</span> in [/var/www/socialnetwork.com/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-05-25 14:08:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_postToWall' at line 1</span> in [C:\xampp\htdocs\socialnetwork.com\cake\libs\model\datasources\dbo_source.php, line 684]
+2011-05-26 01:48:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_postToWall' at line 1</span> in [C:\xampp\htdocs\socialnetwork.com\cake\libs\model\datasources\dbo_source.php, line 684]
